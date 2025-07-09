@@ -48,15 +48,6 @@
 
 ---
 
-## 🏗️ Featured Projects
-
-| Project | Description | Links |
-| ------- | ----------- | ----- |
-| **[Awesome Project 1](https://github.com/clintoo/awesome-project-1)** | 🚀 Short one-liner about your project | [Repo](https://github.com/clintoo/awesome-project-1) |
-| **[Cool Tool](https://github.com/clintoo/cool-tool)** | 🛠️ Describe what makes it great | [Repo](https://github.com/clintoo/cool-tool) |
-
----
-
 ## 🌐 Where to Find Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
